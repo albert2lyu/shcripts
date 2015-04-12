@@ -1,2 +1,2 @@
 # shcripts
-an messy collection of trivial bash scripts
+a messy collection of trivial bash scripts
